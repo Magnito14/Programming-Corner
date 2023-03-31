@@ -3,5 +3,5 @@
 </h1>
 
 <h3 align="center">
-    The "Projects" section of Programming Corner.
+    The "Projects" section of my programming corner.
 </h3>
