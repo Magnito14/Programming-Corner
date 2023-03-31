@@ -2,6 +2,6 @@
     💻 | Projects | 💻
 </h1>
 
-<p>
+<h3 align="center">
     The "Projects" section of Programming Corner.
-</p>
+</h3>
